@@ -1,0 +1,13 @@
+<div class="card">
+	<div class="card-header">
+<h1>Edit Friend</h1>
+     </div>
+<%= render 'form', friend: @friend %>
+
+
+	<%= link_to 'Show', @friend , class: 'btn btn-dark'%> 	
+	<%= link_to 'Delete', @friend,class: 'btn btn-danger', method: :delete, data: { confirm: 'Are you sure?' }  %>
+	<%= link_to 'Back', friends_path, class: 'btn btn-dark' %>
+</div>
+</div>
+
