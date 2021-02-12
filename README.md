@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Friends list App which is made using Ruby on Rails(MVC framework) and styled using Bootstrap only.
+Website performs CRUD operations.
+Database is made up of Postgres.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hosted Version: https://railsfriendproject.herokuapp.com/
